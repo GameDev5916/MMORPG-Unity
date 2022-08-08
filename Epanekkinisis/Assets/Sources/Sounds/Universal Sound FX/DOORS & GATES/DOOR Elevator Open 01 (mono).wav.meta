@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 455c1e440eca5d445b10f70147c4296b
+labels:
+- USFX
+- mono
+- door
+- open
+AudioImporter:
+  serializedVersion: 4
+  format: -1
+  quality: -1
+  stream: 1
+  3D: 1
+  forceToMono: 0
+  useHardware: 0
+  loopable: 0
+  userData: 

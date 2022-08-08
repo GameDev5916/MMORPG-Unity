@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 0b57ca6951c1a5f4daf38b394b0e2fdc
+labels:
+- USFX
+- hit
+- weapon
+- stereo
+- melee
+- hammer
+- metal
+AudioImporter:
+  serializedVersion: 4
+  format: -1
+  quality: -1
+  stream: 1
+  3D: 1
+  forceToMono: 0
+  useHardware: 0
+  loopable: 0
+  userData: 

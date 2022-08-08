@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 186d9b40e7a145041b3d9167e25f8ee0
+labels:
+- USFX
+- blaster
+- sci-fi
+- stereo
+- weapon
+- energy
+- fire
+AudioImporter:
+  serializedVersion: 4
+  format: -1
+  quality: -1
+  stream: 1
+  3D: 1
+  forceToMono: 0
+  useHardware: 0
+  loopable: 0
+  userData: 

@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 4f704eba37b47b14a91805bba607e4b4
+labels:
+- USFX
+- stereo
+- weapon
+- firearm
+- FPS
+- fire
+- rifle
+AudioImporter:
+  serializedVersion: 4
+  format: -1
+  quality: -1
+  stream: 1
+  3D: 1
+  forceToMono: 0
+  useHardware: 0
+  loopable: 0
+  userData: 

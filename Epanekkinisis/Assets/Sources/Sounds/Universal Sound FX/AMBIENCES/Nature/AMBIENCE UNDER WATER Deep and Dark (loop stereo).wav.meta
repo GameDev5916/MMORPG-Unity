@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: a65c01736a8adce4bace739bb32503be
+labels:
+- USFX
+- stereo
+- loop
+- water
+- ambience
+- nature
+AudioImporter:
+  serializedVersion: 4
+  format: -1
+  quality: -1
+  stream: 1
+  3D: 1
+  forceToMono: 0
+  useHardware: 0
+  loopable: 0
+  userData: 

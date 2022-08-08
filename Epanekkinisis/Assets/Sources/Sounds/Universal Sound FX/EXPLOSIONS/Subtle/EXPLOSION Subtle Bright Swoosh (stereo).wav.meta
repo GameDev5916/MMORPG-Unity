@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 05cef90e740871842b0eefb6cdc9961f
+labels:
+- USFX
+- explosion
+- stereo
+AudioImporter:
+  serializedVersion: 4
+  format: -1
+  quality: -1
+  stream: 1
+  3D: 1
+  forceToMono: 0
+  useHardware: 0
+  loopable: 0
+  userData: 

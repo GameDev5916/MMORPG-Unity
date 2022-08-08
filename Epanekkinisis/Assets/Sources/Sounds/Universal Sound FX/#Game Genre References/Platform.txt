@@ -1,0 +1,47 @@
+Recommended categories for Platform Games
+-------------------------------------------------------------------------------
+USER INTERFACES --- User interface and menu naviation
+
+MUSIC EFFECTS --- Positive and Negative Music Effects (e.g. game over, level completed, etc.)
+
+8BIT --- Classic 8-bit sound effects
+
+WHOOSHES --- Jumping - fast movement through air
+
+THUDS & THUMPS --- Landing, soft impacts
+
+MONSTERS & CREATURES --- Monsters and creatures
+
+IMPACTS --- Impacts (metal, wood, stone, etc.)
+
+GORE & SPLATS --- Landing in goo or killing
+
+FOLEY --- Generic interactions
+
+FABRIC & CLOTHING --- Fabric and clothing
+
+ELEVATORS & LIFTS --- Elevators and Lifts
+
+ELECTRICITY --- Force fields
+
+ELEMENTS\Water\Splashes --- Landing in Water
+
+ELEMENTS\Water\Streams & Fountains --- Fountains, streams
+
+ELEMENTS\Water\Waterfalls --- Waterfalls
+
+DOORS & GATES --- Doors and Gates
+
+CREAKS --- Creaking platforms
+
+BUTTONS --- Pressing buttons
+
+BREAKS & SNAPS --- Breaking Platforms
+
+WEAPONS --- Firearms / Melee Weapnons / Sci-fi Weapons / Projectile Weapons
+
+EXPLOSIONS --- Explosions
+
+CARTOON --- Bouncing and interactions
+
+LOCKS & KEYS --- Locking & Unlocking

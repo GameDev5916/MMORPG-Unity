@@ -1,0 +1,21 @@
+Camera Shake Changelog
+
+************ Version 1.2.0 ************
+Added a CancelShake overload that takes a time argument. This will immediately cancel all shakes and move the camera matrix back to its original position.
+Small compatibility fix for future Unity versions.
+
+************ Version 1.1.0 ************
+Added shake rotation - works on both orthographic and perspective cameras.
+Various performance fixes.
+
+************ Version 1.0.2 ************
+Critical matrix transformation bugfix. Please update!
+
+************ Version 1.0.1 ************
+Added support for multiple cameras.
+NOTE: The GUI shake distance is based on the first camera in the camera list.
+
+The camera matrix is adjusted directly instead of the local transform - moving cameras can now shake properly.
+
+************ Version 1.0.0 ************
+Initial version.

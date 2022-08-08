@@ -1,0 +1,19 @@
+Recommended categories for RTS Medieval & Fantasy Games
+-------------------------------------------------------------------------------
+USER INTERFACES --- User interface and menu naviation
+
+WEAPONS\Melee --- Hand combat weapons
+
+WEAPONS\Bow & Arrow --- Bows and Arrows
+
+MONSTERS & CREATURES --- Monsters and creatuers
+
+GORE & SPLATS --- Defeating enemies and creatures
+
+
+
+COMING IN FUTURE UPDATES...
+
+Enchanted --- (coming in future updates, e.g. spell casting)
+
+BUILDINGS --- (coming in future updates, e.g. blacksmith, mill, farm, etc.)

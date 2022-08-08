@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 46d8fb9fd1cebe949bc4997c8c23e7bf
+labels:
+- USFX
+- loop
+- mono
+- car
+- racing
+- vehicle
+AudioImporter:
+  serializedVersion: 4
+  format: -1
+  quality: -1
+  stream: 1
+  3D: 1
+  forceToMono: 0
+  useHardware: 0
+  loopable: 0
+  userData: 

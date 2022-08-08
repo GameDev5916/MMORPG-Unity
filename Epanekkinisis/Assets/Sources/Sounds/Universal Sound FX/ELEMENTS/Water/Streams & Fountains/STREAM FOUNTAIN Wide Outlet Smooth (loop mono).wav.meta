@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: e75ad640c7e8b5d4dbd102fd6e256b19
+labels:
+- USFX
+- loop
+- mono
+- water
+- stream
+- fountain
+AudioImporter:
+  serializedVersion: 4
+  format: -1
+  quality: -1
+  stream: 1
+  3D: 1
+  forceToMono: 0
+  useHardware: 0
+  loopable: 0
+  userData: 

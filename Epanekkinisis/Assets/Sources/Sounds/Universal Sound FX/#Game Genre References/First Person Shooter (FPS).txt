@@ -1,0 +1,57 @@
+Recommended categories for FPS Games
+-------------------------------------------------------------------------------
+USER INTERFACES --- User interface and menu naviation
+
+EXPLOSIONS --- Explosions
+
+WEAPONS\Firearms\Fire First Person Shooter (FPS) --- First person shooter firearms
+
+WEAPONS\Firearms\Casings --- Bullet casings dropping on ground / floor
+
+WEAPONS\Firearms\Handling --- Weapon Handling Sounds
+
+WEAPONS\Firearms\Reloading --- Generic Weapon Reloading Sounds
+
+WEAPONS\Sci-Fi --- Futuristic weapons
+
+AMBIENCES --- Environment ambiences (sci-fi & nature)
+
+ELECTRICITY --- Force fields
+
+VEHICLES\Thrusters --- Thruster and fire/flame effects
+
+BREAKS & SNAPS --- Breaking and Snapping
+
+ELEVATORS & LIFTS --- Elevators & Lifts
+
+BUTTONS --- Interactive buttons
+
+CREAKS --- Creaking Wood
+
+DOORS & GATES --- Doors & Gates Opening and Closing
+
+FABRIC & CLOTHING --- Movement of Clothes, Fabric
+
+FOLEY --- Generic Interaction Sounds
+
+GORE & SPLATS --- Gore and splatting of bodies, creatures or body parts
+
+HUMAN\Footsteps --- Walking and Running Footsteps on different surfaces
+
+HUMAN\Grunts & Groans --- Player getting hurt and in pain, landing from falls
+
+HUMAN\Movement --- Shuffling and movements
+
+IMPACTS --- Impacting objects (Metal, Wood, Stone, etc.)
+
+MACHINES & MECHANICS --- Fixed sound emmiting installations on level
+
+MONSTERS & CREATURES --- Monster and creature sounds
+
+ROBOTICS\Short Bursts --- Can be used for doors, canopies, airlocks etc.
+
+THUDS & THUMPS --- Soft impacts, body falls, etc.
+
+VOICES\Male --- Player communications
+
+VOICES\Radio Male --- Player communications

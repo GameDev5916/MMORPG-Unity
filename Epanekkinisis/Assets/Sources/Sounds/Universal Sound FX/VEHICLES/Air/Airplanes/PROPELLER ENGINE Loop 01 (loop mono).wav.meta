@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: aa264ace3b94621429c1141d6fc0fc7c
+labels:
+- USFX
+- loop
+- aircraft
+- airplane
+- propeller
+- mono
+- engine
+- vehicle
+AudioImporter:
+  serializedVersion: 4
+  format: -1
+  quality: -1
+  stream: 1
+  3D: 1
+  forceToMono: 0
+  useHardware: 0
+  loopable: 0
+  userData: 

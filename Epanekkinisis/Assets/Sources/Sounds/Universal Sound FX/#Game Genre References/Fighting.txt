@@ -1,0 +1,21 @@
+Recommended categories for Fighting Games
+-------------------------------------------------------------------------------
+WHOOSHES --- Hand / Leg and Weapon movement through air
+
+WEAPONS\Melee --- Hand weapons being wieled and hitting body/armor
+
+THUDS & THUMPS --- Hits to body and body falls
+
+GORE & SPLATS --- Blood and guts
+
+FABRIC & CLOTHING --- Quick movement of clothes when punching / kicking
+
+HUMAN\Grunts & Groans --- Vocalization when being hit and hurt
+
+USER INTERFACES	--- User interface and menu naviation
+
+BREAKS & SNAPS --- Bone breaking
+
+VOICES\Male --- Announcer ("Fight", "You Win", etc.)
+
+VOICES\Robotic Male --- Announcer ("Fight", "You Win", etc.)

@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: ea55fdb49b48e634c8a7535de111f5e9
+labels:
+- USFX
+- weapon
+- stereo
+- machinegun
+- RTS
+- fire
+- firearm
+AudioImporter:
+  serializedVersion: 4
+  format: -1
+  quality: -1
+  stream: 1
+  3D: 1
+  forceToMono: 0
+  useHardware: 0
+  loopable: 0
+  userData: 

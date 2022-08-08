@@ -1,0 +1,19 @@
+Recommended categories for Shoot Em Up Games
+-------------------------------------------------------------------------------
+USER INTERFACES --- User interface and menu naviation
+
+EXPLOSIONS --- Explosions
+
+WEAPONS\Firearms\Fire Real Time Strategy (RTS) --- Firearms mastered for RTS games
+
+WEAPONS\Sci-Fi --- Futuristic weapons
+
+ELECTRICITY --- Force fields
+
+VEHICLES\Thrusters --- Thruster and fire/flame effects
+
+IMPACTS --- Impacts of various sorts
+
+WEAPONS\Rockets --- Rockets and missiles
+
+VEHICLES --- Land / Air / Space vehicles

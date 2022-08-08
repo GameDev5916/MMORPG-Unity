@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 5c9394442e95e4c48b6a87dc3629cc8e
+labels:
+- female
+- USFX
+- mono
+- voice
+AudioImporter:
+  serializedVersion: 4
+  format: -1
+  quality: -1
+  stream: 1
+  3D: 1
+  forceToMono: 0
+  useHardware: 0
+  loopable: 0
+  userData: 

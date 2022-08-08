@@ -1,0 +1,65 @@
+Quantum MetaClouds
+------------------
+
+Quantum Theory Entertainment presents, Quantum MetaClouds, a set of modular cloud models for Unity.
+
+
+Package Contains:
+
+* 15 low polygon models. Duplicate, move, rotate, and scale the clouds in your scene to create an epic artistic direction.
+
+* 3 custom shaders: Hard-edged Alpha Blend, Soft-edged Alpha Blend, and Alpha Clip. These shaders use just the RGB channels of the texture and not the alpha channel, keeping memory footprints low.
+
+* A special Editor Script to make editing your clouds fast and easy. Dynamically change the ambient and sun color of the clouds. Also modify the contrast, density, thickness, and opacity. Easily orient them towards an object or the scene camera.
+
+Questions? Comments? Need Help? Contact support@quantumtheoryentertainment.com. 
+
+*The Quantum Cold terrain models and the background skybox featured in the demo are both sold seperately.
+
+Usage
+-----
+
+15 cloud models are found in Quantum Theory/Quantum MetaClouds/Meshes. Simply drag and drop them into your scene. THey will likely be oriented in the wrong direction, but instead of rotating them manually, run the provided editorscript. To activate, goto Window -> Quantum MetaClouds. With any clouds selected, click on "Look At Scene Cam." The clouds will instantly orient themselves to look at the scene camera. If you have an object set in the "Object to Look At" field, then hit "Look at Object," any selected clouds will orient themselves to look at that object.
+
+You may also want to increase the scale of the clouds. A value of 25-50 in each axis is a good range. 
+
+Modify the ambient and sun color swatches to match the lighting in your scene. Adjust the contrast and density to get the mood you desire. Higher densities give threatening clouds. Lower the contrast to visually push them into the background.
+
+The shaders can be found in the QuantumTheory category in the shader choice dropdown box. When you modify the Opacity slider in the material or editorscript, this can make the clouds more transparent when using the Hard and SoftAlphaBlend shaders. When using Alpha Clip, the opacity slider acts as a cutoff; pixel values greater than the slider value will not draw.
+
+*Warning: Alpha Clip is more demanding on mobile platforms. If you need help with performance, feel free to email support@quantumtheoryentertainment.com. I'll see what I can do.
+
+Adjusting the thickness slider will modify the clouds' Z scale. This prevents them from looking flat when the camera moves parallel to their facing angle.
+
+Lost the documentation? Simply hit the help button to get back up to speed.
+
+Quantum MetaClouds requires OpenGL ES 2.0-enabled devices such as iPad, iPhone 3GS or later, and Android devices with Android 2.2 or later. For PC or Mac, it should be just fine.
+
+
+Custom Textures
+---------------
+
+If you want to author your own cloud textures, here is what you need to know:
+
+The red channel is used to linearly interpolate between the sun and ambient colors. This is usually just a desaturated cloud texture with some levels adjustment.
+
+The green channel is the transparency channel used in the Hard Alphablend shader. 
+
+The blue channel is the transparency channel used in the Soft alphablend shader.
+
+The alpha clip shader uses the green channel as well.
+
+
+
+*Like Quantum Theory's Work? Check out our other projects at http://www.quantumtheoryentertainment.com, or in the Unity Asset store.*
+
+EULA
+----
+
+Users of this package are bound to licensing terms described at http://unity3d.com/company/legal/as_terms
+
+
+Version History
+---------------
+
+1.0 - initial release.

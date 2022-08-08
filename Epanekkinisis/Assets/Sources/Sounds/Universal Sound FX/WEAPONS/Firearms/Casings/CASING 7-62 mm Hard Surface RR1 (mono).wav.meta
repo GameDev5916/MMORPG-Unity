@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: d12940a5590a1154ba461188c03a3df9
+labels:
+- USFX
+- mono
+- weapon
+- firearm
+- casing
+- ammo
+AudioImporter:
+  serializedVersion: 4
+  format: -1
+  quality: -1
+  stream: 1
+  3D: 1
+  forceToMono: 0
+  useHardware: 0
+  loopable: 0
+  userData: 

@@ -1,0 +1,219 @@
+fileFormatVersion: 2
+guid: 322acaa34acfe2345bbbed04ae86e671
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: 'Szolok02 [Layer1 '
+    100002: Szolok02 [Layer1  1
+    100004: Szolok02 [Layer1  2
+    100006: Szolok02 [Layer1  3
+    100008: Szolok02 [Layer10]
+    100010: 'Szolok02 [Layer11 '
+    100012: Szolok02 [Layer11  1
+    100014: Szolok02 [Layer11  2
+    100016: 'Szolok02 [Layer12 '
+    100018: Szolok02 [Layer12  1
+    100020: 'Szolok02 [Layer13 '
+    100022: Szolok02 [Layer13  1
+    100024: Szolok02 [Layer13  2
+    100026: Szolok02 [Layer14]
+    100028: Szolok02 [Layer15]
+    100030: Szolok02 [Layer2]
+    100032: Szolok02 [Layer3]
+    100034: Szolok02 [Layer4]
+    100036: 'Szolok02 [Layer5 '
+    100038: Szolok02 [Layer5  1
+    100040: Szolok02 [Layer6]
+    100042: 'Szolok02 [Layer7 '
+    100044: Szolok02 [Layer7  1
+    100046: Szolok02 [Layer8]
+    100048: Szolok02 [Layer9]
+    100050: //RootNode
+    100052: Szolok02 [Layer11]
+    100054: Szolok02 [Layer12]
+    100056: Szolok02 [Layer13]
+    100058: Szolok02 [Layer1]
+    100060: Szolok02 [Layer5]
+    100062: Szolok02 [Layer7]
+    100064: C [\Tmp\Kartoon\Objects\Szolok02.lwo]
+    400000: 'Szolok02 [Layer1 '
+    400002: Szolok02 [Layer1  1
+    400004: Szolok02 [Layer1  2
+    400006: Szolok02 [Layer1  3
+    400008: Szolok02 [Layer10]
+    400010: 'Szolok02 [Layer11 '
+    400012: Szolok02 [Layer11  1
+    400014: Szolok02 [Layer11  2
+    400016: 'Szolok02 [Layer12 '
+    400018: Szolok02 [Layer12  1
+    400020: 'Szolok02 [Layer13 '
+    400022: Szolok02 [Layer13  1
+    400024: Szolok02 [Layer13  2
+    400026: Szolok02 [Layer14]
+    400028: Szolok02 [Layer15]
+    400030: Szolok02 [Layer2]
+    400032: Szolok02 [Layer3]
+    400034: Szolok02 [Layer4]
+    400036: 'Szolok02 [Layer5 '
+    400038: Szolok02 [Layer5  1
+    400040: Szolok02 [Layer6]
+    400042: 'Szolok02 [Layer7 '
+    400044: Szolok02 [Layer7  1
+    400046: Szolok02 [Layer8]
+    400048: Szolok02 [Layer9]
+    400050: //RootNode
+    400052: Szolok02 [Layer11]
+    400054: Szolok02 [Layer12]
+    400056: Szolok02 [Layer13]
+    400058: Szolok02 [Layer1]
+    400060: Szolok02 [Layer5]
+    400062: Szolok02 [Layer7]
+    400064: C [\Tmp\Kartoon\Objects\Szolok02.lwo]
+    2300000: 'Szolok02 [Layer1 '
+    2300002: Szolok02 [Layer1  1
+    2300004: Szolok02 [Layer1  2
+    2300006: Szolok02 [Layer1  3
+    2300008: Szolok02 [Layer10]
+    2300010: 'Szolok02 [Layer11 '
+    2300012: Szolok02 [Layer11  1
+    2300014: Szolok02 [Layer11  2
+    2300016: 'Szolok02 [Layer12 '
+    2300018: Szolok02 [Layer12  1
+    2300020: 'Szolok02 [Layer13 '
+    2300022: Szolok02 [Layer13  1
+    2300024: Szolok02 [Layer13  2
+    2300026: Szolok02 [Layer14]
+    2300028: Szolok02 [Layer15]
+    2300030: Szolok02 [Layer2]
+    2300032: Szolok02 [Layer3]
+    2300034: Szolok02 [Layer4]
+    2300036: 'Szolok02 [Layer5 '
+    2300038: Szolok02 [Layer5  1
+    2300040: Szolok02 [Layer6]
+    2300042: 'Szolok02 [Layer7 '
+    2300044: Szolok02 [Layer7  1
+    2300046: Szolok02 [Layer8]
+    2300048: Szolok02 [Layer9]
+    2300050: Szolok02 [Layer11]
+    2300052: Szolok02 [Layer12]
+    2300054: Szolok02 [Layer13]
+    2300056: Szolok02 [Layer1]
+    2300058: Szolok02 [Layer5]
+    2300060: Szolok02 [Layer7]
+    3300000: 'Szolok02 [Layer1 '
+    3300002: Szolok02 [Layer1  1
+    3300004: Szolok02 [Layer1  2
+    3300006: Szolok02 [Layer1  3
+    3300008: Szolok02 [Layer10]
+    3300010: 'Szolok02 [Layer11 '
+    3300012: Szolok02 [Layer11  1
+    3300014: Szolok02 [Layer11  2
+    3300016: 'Szolok02 [Layer12 '
+    3300018: Szolok02 [Layer12  1
+    3300020: 'Szolok02 [Layer13 '
+    3300022: Szolok02 [Layer13  1
+    3300024: Szolok02 [Layer13  2
+    3300026: Szolok02 [Layer14]
+    3300028: Szolok02 [Layer15]
+    3300030: Szolok02 [Layer2]
+    3300032: Szolok02 [Layer3]
+    3300034: Szolok02 [Layer4]
+    3300036: 'Szolok02 [Layer5 '
+    3300038: Szolok02 [Layer5  1
+    3300040: Szolok02 [Layer6]
+    3300042: 'Szolok02 [Layer7 '
+    3300044: Szolok02 [Layer7  1
+    3300046: Szolok02 [Layer8]
+    3300048: Szolok02 [Layer9]
+    3300050: Szolok02 [Layer11]
+    3300052: Szolok02 [Layer12]
+    3300054: Szolok02 [Layer13]
+    3300056: Szolok02 [Layer1]
+    3300058: Szolok02 [Layer5]
+    3300060: Szolok02 [Layer7]
+    4300000: 'Szolok02 [Layer1 '
+    4300002: Szolok02 [Layer2]
+    4300004: Szolok02 [Layer3]
+    4300006: Szolok02 [Layer4]
+    4300008: 'Szolok02 [Layer5 '
+    4300010: Szolok02 [Layer6]
+    4300012: 'Szolok02 [Layer7 '
+    4300014: Szolok02 [Layer8]
+    4300016: Szolok02 [Layer9]
+    4300018: Szolok02 [Layer10]
+    4300020: 'Szolok02 [Layer11 '
+    4300022: 'Szolok02 [Layer12 '
+    4300024: 'Szolok02 [Layer13 '
+    4300026: Szolok02 [Layer14]
+    4300028: 'Szolok02 [Layer5 '
+    4300030: 'Szolok02 [Layer1 '
+    4300032: 'Szolok02 [Layer1 '
+    4300034: 'Szolok02 [Layer1 '
+    4300036: 'Szolok02 [Layer7 '
+    4300038: 'Szolok02 [Layer11 '
+    4300040: 'Szolok02 [Layer12 '
+    4300042: 'Szolok02 [Layer13 '
+    4300044: 'Szolok02 [Layer13 '
+    4300046: 'Szolok02 [Layer11 '
+    4300048: Szolok02 [Layer15]
+    4300050: Szolok02 [Layer1]
+    4300052: Szolok02 [Layer5]
+    4300054: Szolok02 [Layer7]
+    4300056: Szolok02 [Layer11]
+    4300058: Szolok02 [Layer12]
+    4300060: Szolok02 [Layer13]
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 1
+  userData: 

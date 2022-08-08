@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: b8bf860e1b68fb94ba7fdf3c5acce7fa
+labels:
+- USFX
+- stereo
+- sword
+- melee
+- weapon
+- metal
+AudioImporter:
+  serializedVersion: 4
+  format: -1
+  quality: -1
+  stream: 1
+  3D: 1
+  forceToMono: 0
+  useHardware: 0
+  loopable: 0
+  userData: 

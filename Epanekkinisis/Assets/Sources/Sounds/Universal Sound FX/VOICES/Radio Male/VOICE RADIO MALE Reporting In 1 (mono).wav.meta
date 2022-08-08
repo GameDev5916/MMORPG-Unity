@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 4bff822d7d88d35448dedd1bbd9b2ab7
+labels:
+- USFX
+- mono
+- radio
+- voice
+- male
+AudioImporter:
+  serializedVersion: 4
+  format: -1
+  quality: -1
+  stream: 1
+  3D: 1
+  forceToMono: 0
+  useHardware: 0
+  loopable: 0
+  userData: 
